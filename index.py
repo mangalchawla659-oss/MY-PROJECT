@@ -1,0 +1,11 @@
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+print("mangal")
+yyyy
